@@ -1,1 +1,0 @@
-f=@(x) x.^5+log(sin(sqrt(x))./tan(x)+exp(x.^2./2));
